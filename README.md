@@ -1,5 +1,5 @@
 
-# 💻 Joel Mwangi 
+# 💻 Jtech
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Clean+Code+Advocate;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
