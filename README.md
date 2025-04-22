@@ -4,6 +4,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Clean+Code+Advocate;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
+
 🌱 Passionate full-stack developer focused on solving real-world problems through clean, efficient code  
 💻 Currently building scalable web applications and open-source tools  
 🚀 Constantly learning and experimenting with new technologies  
@@ -11,9 +12,13 @@
 ---
 
 ## 🔧 Tech Stack
+
 <p> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> </p>
+
+
 Backend Development
 <p> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" /> </p>
+
 
 ### Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
@@ -22,7 +27,9 @@ Backend Development
 
 ---
 
+
 ## 🚀 Featured Projects
+
 
 ### 🌾 AgriConnect Platform
 [![GitHub stars](https://img.shields.io/github/stars/joel-mwangi/agriconnect?style=social)](https://github.com/joel-mwangi/agriconnect)  
@@ -31,6 +38,7 @@ Farm-to-market supply chain solution with real-time inventory tracking built wit
 - Next.js frontend with ISR
 - PostgreSQL with PostGIS for location data
 - Dockerized deployment
+
 
 ### 🔐 NextAuth Role-based Authentication
 [![GitHub stars](https://img.shields.io/github/stars/joel-mwangi/nextauth-roles?style=social)](https://github.com/joel-mwangi/nextauth-roles)  
@@ -42,12 +50,14 @@ Production-ready authentication system featuring:
 
 ---
 
+
 ## 📝 Latest Blog Posts
 - [Optimizing Django Queries for Large Datasets](https://yourblog.com)  
 - [Next.js Authentication Patterns Compared](https://yourblog.com)  
 - [Building Scalable Microservices with Docker](https://yourblog.com)  
 
 ---
+
 
 ## ✨ Developer Philosophy
 
@@ -56,6 +66,7 @@ Production-ready authentication system featuring:
 > _"Always be shipping."_
 
 ---
+
 
 ## 📫 Get in Touch
 
