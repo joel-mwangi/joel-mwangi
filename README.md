@@ -1,5 +1,9 @@
-# 👋 Hello there, I'm Joel [jtech]
 
+# 💻 Joel Mwangi 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Clean+Code+Advocate;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 🌱 Passionate full-stack developer focused on solving real-world problems through clean, efficient code  
 💻 Currently building scalable web applications and open-source tools  
 🚀 Constantly learning and experimenting with new technologies  
@@ -8,12 +12,7 @@
 
 ## 🔧 Tech Stack
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
+<p> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> </p>
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
