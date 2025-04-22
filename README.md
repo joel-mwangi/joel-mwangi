@@ -66,4 +66,4 @@ Production-ready authentication system featuring:
 [![Twitter](https://img.shields.io/badge/-@GachihiJoe84161-1DA1F?style=flat&logo=twitter)](https://twitter.com/@GachihiJoe84161)
 [![LinkedIn](https://img.shields.io/badge/-Joel_Mwangi-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/joel-mwangi-a503262b7)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat)](https://github.com/joel-mwangi/portifolio)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:gachihijoel@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:gachihijoel25@gmail.com)
