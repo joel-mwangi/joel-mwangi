@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/profile-hero.svg" width="100%" alt="Custom Joel Mwangi profile hero background" />
+
+<br>
+
 # 👋 Hi, I'm Joel Mwangi
 
 ### Software Engineer • AI Builder • Founder
@@ -11,7 +15,11 @@
 <br>
 
 <a href="https://github.com/joel-mwangi"><img src="https://img.shields.io/github/followers/joel-mwangi?style=for-the-badge"></a>
+&nbsp;
 <a href="https://github.com/joel-mwangi?tab=repositories"><img src="https://img.shields.io/badge/Projects-GitHub-blue?style=for-the-badge&logo=github"></a>
+
+<br><br>
+<img src="./assets/profile-hero-divider.svg" width="100%" alt="Profile section divider" />
 
 </div>
 
