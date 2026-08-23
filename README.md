@@ -248,34 +248,28 @@ My long-term goal is to build technology that **empowers people, strengthens bus
 
 ---
 
-## 🌱 Open Source & Collaboration
-
-I'm especially interested in collaborating around:
-
-- Artificial Intelligence
-- Agriculture & Agritech
-- Commerce & business software
-- Civic and public-interest technology
-- Developer tools
-- Open data
-- Education
-
-I value collaborations where people **build together, learn together, and create something useful**.
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
+<strong>Interested in AI, product engineering, agritech, or building useful software together?</strong>
+</p>
 
-<a href="https://linkedin.com/in/joel-mwangi-a503262b7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<p align="center">
+<a href="https://linkedin.com/in/joel-mwangi-a503262b7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:gachihijoel25@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
+&nbsp;
+<a href="https://twitter.com/GachihiJoe84161"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" alt="X" /></a>
+&nbsp;
+<a href="https://github.com/joel-mwangi"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+</p>
 
-<a href="mailto:gachihijoel25@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
-
-<a href="https://twitter.com/GachihiJoe84161"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/></a>
-
-<a href="https://github.com/joel-mwangi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-
+<p align="center">
+<a href="https://github.com/joel-mwangi?tab=achievements">🏅 GitHub Achievements</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/joel-mwangi?tab=repositories">📦 Browse Projects</a>
+&nbsp;•&nbsp;
+<a href="https://azimart.vercel.app">🌾 Azimart Kenya</a>
 </p>
 
 ---
