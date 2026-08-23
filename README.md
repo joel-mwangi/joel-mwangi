@@ -1,193 +1,191 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Joel Mwangi
 
-### 🚀 Software Engineer • AI Engineer • Founder
+### Software Engineer • AI Builder • Founder
 
-**Building AI-powered products that solve real-world challenges across agriculture, commerce, and intelligent information systems.**
+**I build and ship real software and AI systems that solve practical problems across commerce, agriculture, and intelligent information systems.**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+AI-powered+Products;Founder+of+Azimart+Kenya;Full+Stack+Software+Engineer;AI+Engineer;Next.js+%7C+Python+%7C+TypeScript;Building+Technology+for+Africa" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Production+Software;Building+AI-Powered+Products;Founder+of+Azimart+Kenya;Full-Stack+Software+Engineer;AI+Engineer;Building+Technology+for+Africa" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=joel-mwangi&style=for-the-badge"/>
-
 <a href="https://github.com/joel-mwangi"><img src="https://img.shields.io/github/followers/joel-mwangi?style=for-the-badge"></a>
-<a href="https://github.com/joel-mwangi?tab=repositories"><img src="https://img.shields.io/badge/Open_Source-Projects-blue?style=for-the-badge"></a>
+<a href="https://github.com/joel-mwangi?tab=repositories"><img src="https://img.shields.io/badge/Projects-GitHub-blue?style=for-the-badge&logo=github"></a>
 
 </div>
 
 ---
 
-# 🌍 About Me
+## 🧭 About Me
 
-I'm a software engineer passionate about building technology that creates measurable impact.
+I'm a software engineer and product builder focused on turning real-world problems into production software.
 
-Rather than building projects for a portfolio, I focus on designing and shipping production-ready products that solve real-world problems.
+I prefer **building products over building portfolio demos**. That means thinking beyond the UI: business rules, data, APIs, security, payments, inventory, workflows, reliability, deployment, and the edge cases that appear when real users depend on a system.
 
-My interests include Artificial Intelligence, scalable backend systems, cloud-native applications, marketplace platforms, and software architecture.
+My work sits at the intersection of **full-stack engineering, AI, marketplace systems, cloud applications, and African innovation**.
 
----
-
-# 🎯 Mission
-
-To build intelligent software that empowers people, strengthens businesses, and accelerates digital transformation across Africa.
+I enjoy taking a problem from idea → architecture → implementation → deployment → continuous improvement.
 
 ---
 
-# ⚡ Quick Facts
+## 🌍 What I Build
 
-- 🌾 Founder of **Azimart Kenya**
-- 🤖 AI Engineer focused on LLM applications
-- 💻 Full Stack Software Engineer
-- ☁ Building cloud-native applications
-- 🧠 Passionate about AI Agents, RAG and intelligent systems
-- 🌍 Building technology for Africa
-
----
-
-# 🚀 Flagship Projects
-
-## 🌾 Azimart Kenya
-
-AI-powered agricultural marketplace connecting farmers, buyers, transporters, suppliers and agricultural service providers.
-
-### Highlights
-
-- AI Marketplace Assistant
-- Intelligent Search
-- Product Recommendations
-- Farmer Verification
-- Trust & Reputation
-- Logistics Integration
-- AI Customer Support
-- Marketplace Analytics
+- 🚀 Production web applications and business platforms
+- 🤖 AI-powered products, agents, RAG systems, and intelligent workflows
+- 🛒 Marketplace and commerce systems
+- 💳 Order, payment, refund, cancellation, commission, and inventory workflows
+- ☁️ Cloud-native applications and scalable APIs
+- 🧠 Systems that combine automation with human-centered product design
+- 🌍 Technology designed for practical challenges in Africa
 
 ---
 
-## 📰 AI News Intelligence Platform
+## 🔨 Currently Building
 
-Enterprise platform for governments, businesses and researchers.
+### 🌾 Azimart Kenya
 
-- Live News Aggregation
-- AI Summaries
-- Semantic Search
-- RAG Assistant
-- Entity Recognition
-- Executive Reports
-- Trend Detection
-- Breaking News Alerts
+My flagship product: an agricultural commerce platform designed to connect producers, buyers, and the wider agricultural supply chain.
 
----
+I’m building it as a **real operating system for agricultural commerce**, not simply a product-listing website.
 
-## 🚑 Maritime Safety Platform
+**Core areas include:**
 
-Research-driven emergency response solution designed to reduce rescue response times for artisanal fishermen through user-centered technology.
+- Marketplace discovery and search
+- Seller and buyer experiences
+- Inventory and stock integrity
+- Orders and fulfillment workflows
+- Payments and payment recovery
+- Cancellations and refunds
+- Commissions and seller performance
+- Logistics and delivery workflows
+- Trust, verification, and reputation
+- AI-assisted customer and marketplace experiences
 
----
-
-# 🔥 Current Focus
-
-- AI Agents
-- Multi-Agent Systems
-- RAG
-- LangGraph
-- MCP Servers
-- Scalable APIs
-- Cloud Architecture
-- Azimart Kenya
+**Stack:** Next.js · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Vercel · AI APIs
 
 ---
 
-# 🏗 Engineering Interests
+## ⭐ Featured Projects
 
-- Clean Architecture
-- Domain Driven Design
-- Event-Driven Systems
-- Microservices
-- REST APIs
-- GraphQL
-- Distributed Systems
-- Kubernetes
+### 🌾 Azimart Kenya
+
+Agricultural marketplace and commerce infrastructure focused on improving how agricultural products move between producers and buyers.
+
+**Focus:** marketplace systems · inventory · orders · payments · logistics · AI
+
+### 📰 AI News Intelligence Platform
+
+An intelligent information platform for aggregating, searching, analyzing, and summarizing news and large volumes of information.
+
+**Focus:** AI summarization · semantic search · RAG · entity recognition · trend detection · executive intelligence
+
+### 🚑 Maritime Safety Platform
+
+A research-driven emergency response platform focused on improving rescue coordination and reducing response time for artisanal fishermen.
+
+**Focus:** user-centered design · emergency workflows · location-aware systems · public-impact technology
+
+### 🏪 POS & Business Operations
+
+Building practical business software for shops and organizations, with emphasis on onboarding, staff management, multi-shop operations, inventory, sales, and day-to-day workflows.
+
+**Focus:** retail operations · business workflows · staff roles · inventory · reporting
 
 ---
 
-# 🛠 Tech Stack
+## 🧠 Technical Focus
+
+### Languages & Application Development
+
+TypeScript · JavaScript · Python · SQL
 
 ### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,redux,html,css"/>
-</p>
+Next.js · React · Tailwind CSS · Redux
 
-### Backend
+### Backend & APIs
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi"/>
-</p>
+Node.js · Express · FastAPI · Django · REST APIs
 
-### Databases
+### Data
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase"/>
-</p>
-
-### DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,aws,git"/>
-</p>
+PostgreSQL · Supabase · MongoDB · Firebase
 
 ### AI
 
-- OpenAI
-- Google Gemini
-- LangChain
-- LangGraph
-- MCP
-- Vector Databases
-- Embeddings
-- Prompt Engineering
-- AI Agents
-- RAG
+LLM applications · AI Agents · RAG · LangGraph · MCP · embeddings · vector search · evaluation
+
+### Cloud & Engineering
+
+Vercel · AWS · Git · GitHub Actions · Linux · Docker
+
+### Architecture
+
+Clean Architecture · Domain-Driven Design · event-driven systems · distributed systems · scalable APIs
 
 ---
 
-# 💡 Engineering Principles
+## 💡 How I Approach Engineering
 
-- Build products, not projects.
-- Solve real problems.
-- Keep architecture simple.
-- Security is a feature.
-- Performance matters.
-- Automate repetitive work.
-- Write maintainable code.
-
----
-
-# 📈 2026 Goals
-
-- [x] AI Marketplace
-- [x] Enterprise Authentication
-- [x] AI Customer Support
-- [ ] Launch Azimart Kenya
-- [ ] Publish Technical Articles
-- [ ] Kubernetes
-- [ ] Multi-Agent AI Systems
-- [ ] Grow Open Source Contributions
+- **Build products, not demos.** Software should solve a real problem for a real user.
+- **Understand the whole workflow.** A change to one business rule can affect inventory, payments, commissions, fulfillment, reporting, and customer experience.
+- **Protect business invariants.** Data integrity and workflow correctness matter as much as the interface.
+- **Keep architecture understandable.** Complexity should earn its place.
+- **Design for failure.** Payments fail, users cancel, stock changes, integrations time out, and systems must recover safely.
+- **Security is part of the product.** Authentication, authorization, data access, and operational safety are not afterthoughts.
+- **Verify before declaring something finished.** Tests, checks, and actual behavior matter more than assumptions.
+- **Prefer continuous improvement.** Ship, observe, learn, and improve.
 
 ---
 
-# 📊 GitHub Analytics
+## 🎯 2026 Focus
 
-<p align="center">
+### Building
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joel-mwangi&show_icons=true&theme=tokyonight&hide_border=true"/>
+- Grow and launch **Azimart Kenya**
+- Build production-grade AI features
+- Strengthen marketplace, payment, inventory, and logistics infrastructure
+- Build software that can scale beyond a single user or organization
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=joel-mwangi&theme=tokyonight&hide_border=true"/>
+### Deepening
 
-</p>
+- Agentic AI and multi-agent systems
+- MCP and AI tool ecosystems
+- AI evaluation and reliability
+- Distributed systems and cloud architecture
+- Kubernetes and production infrastructure
+
+### Sharing
+
+- Publish technical work and architecture lessons
+- Contribute more to open source
+- Collaborate with builders solving meaningful problems
+
+---
+
+## 🌍 Why I Build
+
+I’m interested in technology that does more than demonstrate technical skill.
+
+Growing up across different parts of Kenya exposed me to how the same product can have very different value depending on **where it is, who needs it, and how efficiently it can move**.
+
+That experience shaped my interest in building systems that improve commerce, access to information, coordination, and opportunity.
+
+My long-term goal is to build technology that **empowers people, strengthens businesses, and creates measurable impact across Africa**.
+
+---
+
+## 🏆 Selected Work
+
+- 🌾 **Founder — Azimart Kenya**
+- 🤖 Building production AI and full-stack systems
+- 🌍 Selected for the **Moai Studio Informal Sector Cohort 2026**
+- 🚀 Building products across agriculture, commerce, AI, and public-impact technology
+
+---
+
+## 📊 GitHub
 
 <p align="center">
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=joel-mwangi&theme=tokyo-night"/>
@@ -195,54 +193,23 @@ Research-driven emergency response solution designed to reduce rescue response t
 
 ---
 
-# 🏆 GitHub Trophies
+## 🌱 Open Source & Collaboration
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=joel-mwangi&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/joel-mwangi/joel-mwangi/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Agentic AI
-- MCP Servers
-- Knowledge Graphs
-- Kubernetes
-- Distributed Systems
-- AI Evaluation
-
----
-
-# 🌍 Open Source
-
-Interested in contributing to:
+I'm especially interested in collaborating around:
 
 - Artificial Intelligence
-- Agriculture
-- Civic Tech
+- Agriculture & Agritech
+- Commerce & business software
+- Civic and public-interest technology
+- Developer tools
+- Open data
 - Education
-- Healthcare
-- Open Data
-- Developer Tools
+
+I value collaborations where people **build together, learn together, and create something useful**.
 
 ---
 
-# 🚀 Vision
-
-To create intelligent software that transforms industries, empowers communities, and drives innovation across Africa.
-
----
-
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
 
@@ -260,10 +227,8 @@ To create intelligent software that transforms industries, empowers communities,
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+### 🚀 Build something useful. Make it real. Keep improving.
 
-*"Building technology that empowers people, strengthens communities, and creates lasting impact across Africa."*
-
-If you're interested in AI, scalable software, or open-source collaboration, feel free to connect, collaborate, or star one of my repositories.
+*"Building technology that empowers people, strengthens businesses, and creates lasting impact across Africa."*
 
 </div>
