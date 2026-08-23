@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Joel Mwangi GitHub profile hero</title>
+  <desc id="desc">Software Engineer, AI Builder and Founder profile header</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0b1730"/>
+      <stop offset="1" stop-color="#071a1d"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="18%" cy="22%" r="55%">
+      <stop offset="0" stop-color="#1d7cff" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#1d7cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="84%" cy="72%" r="52%">
+      <stop offset="0" stop-color="#00c2a8" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#00c2a8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38bdf8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="26"/></filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#7dd3fc" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="560" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="560" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="560" rx="28" fill="url(#glow1)"/>
+  <rect width="1200" height="560" rx="28" fill="url(#glow2)"/>
+
+  <!-- Data network -->
+  <g fill="none" stroke="url(#line)" stroke-width="2" opacity="0.72">
+    <path d="M40 390 C180 310 270 420 390 350 S620 290 760 350 S980 440 1160 320"/>
+    <path d="M80 110 C210 170 310 92 450 150 S680 220 830 145 S1030 72 1160 125"/>
+    <path d="M190 520 C330 430 430 500 560 438 S800 400 1010 490"/>
+  </g>
+  <g fill="#67e8f9">
+    <circle cx="168" cy="315" r="4"/><circle cx="390" cy="350" r="5"/><circle cx="620" cy="290" r="4"/>
+    <circle cx="760" cy="350" r="5"/><circle cx="980" cy="440" r="4"/><circle cx="450" cy="150" r="4"/>
+    <circle cx="830" cy="145" r="5"/><circle cx="1010" cy="490" r="4"/>
+  </g>
+
+  <!-- Abstract Africa/Kenya contour -->
+  <path d="M1030 34 C978 68 1004 105 960 140 C936 160 950 195 924 220 C902 241 914 276 890 300 C874 317 888 340 868 362 C852 380 858 401 846 420 C858 448 884 468 875 504 C916 478 944 455 968 420 C992 386 1008 348 1042 322 C1070 300 1088 270 1116 248 C1138 230 1157 208 1168 178 C1140 166 1120 150 1112 122 C1104 92 1074 67 1030 34Z" fill="#0f2e31" fill-opacity="0.36" stroke="#2dd4bf" stroke-opacity="0.26" stroke-width="2"/>
+
+  <!-- Agricultural field geometry -->
+  <g opacity="0.22" fill="none" stroke="#fbbf24" stroke-width="2">
+    <path d="M70 445 C160 410 245 410 335 445"/>
+    <path d="M72 463 C166 428 250 429 342 463"/>
+    <path d="M74 482 C168 446 260 447 350 481"/>
+  </g>
+
+  <!-- Content panel -->
+  <rect x="115" y="88" width="970" height="390" rx="26" fill="#020817" fill-opacity="0.52" stroke="#7dd3fc" stroke-opacity="0.13"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <text x="600" y="160" font-size="42" font-weight="800" fill="#f8fafc">👋 Hi, I'm Joel Mwangi</text>
+    <text x="600" y="205" font-size="24" font-weight="650" fill="#7dd3fc">Software Engineer • AI Builder • Founder</text>
+    <text x="600" y="257" font-size="17" font-weight="500" fill="#dbeafe">I build and ship real software and AI systems that solve practical problems</text>
+    <text x="600" y="283" font-size="17" font-weight="500" fill="#dbeafe">across commerce, agriculture, and intelligent information systems.</text>
+
+    <rect x="265" y="318" width="670" height="48" rx="24" fill="#0f1f3a" stroke="#38bdf8" stroke-opacity="0.22"/>
+    <text x="600" y="349" font-size="16" font-weight="650" fill="#67e8f9">Building Production Software • Building AI-Powered Products • Founder of Azimart Kenya</text>
+
+    <g>
+      <rect x="340" y="397" width="155" height="42" rx="21" fill="#111827" stroke="#38bdf8" stroke-opacity="0.35"/>
+      <text x="418" y="424" font-size="14" font-weight="700" fill="#f8fafc">GitHub</text>
+      <rect x="522" y="397" width="155" height="42" rx="21" fill="#111827" stroke="#38bdf8" stroke-opacity="0.35"/>
+      <text x="600" y="424" font-size="14" font-weight="700" fill="#f8fafc">Projects</text>
+      <rect x="704" y="397" width="155" height="42" rx="21" fill="#111827" stroke="#2dd4bf" stroke-opacity="0.4"/>
+      <text x="781" y="424" font-size="14" font-weight="700" fill="#f8fafc">Achievements</text>
+    </g>
+  </g>
+</svg>
