@@ -94,6 +94,19 @@ Building practical business software for shops and organizations, with emphasis 
 
 ---
 
+## 🏆 Achievements & Milestones
+
+- 💰 **US$28,000 HCI award** — secured support for advancing **Azimart Kenya** and its real-world agricultural impact.
+- 🌍 **MOAI Studio Informal Sector Innovation Cohort 2026** — selected through a Pwani University / MOAI Studio program focused on solving real problems in Kenya's informal sector.
+- 🥇 **International Computer Science Competition 2025** — participated in the qualification round, successfully passed all test cases, and received a **special honor**.
+- 👨🏾‍💻 **Student Software Engineer & Project Lead — HomeBase Project** — took a technical leadership role in building software collaboratively during university.
+- 🚑 **Maritime safety innovation** — contributed technical leadership and systems design to an emergency-response solution using low-bandwidth communication, geospatial analysis, and redesigned rescue-dispatch workflows.
+- 🚀 **Azimart Kenya live product** — built and deployed an operating agricultural marketplace rather than stopping at a prototype.
+
+**[View my GitHub Achievements →](https://github.com/joel-mwangi?tab=achievements)**
+
+---
+
 ## 🧠 Technical Focus
 
 ### Languages & Application Development
@@ -173,16 +186,6 @@ Growing up across different parts of Kenya exposed me to how the same product ca
 That experience shaped my interest in building systems that improve commerce, access to information, coordination, and opportunity.
 
 My long-term goal is to build technology that **empowers people, strengthens businesses, and creates measurable impact across Africa**.
-
----
-
-## 🏆 Selected Work
-
-- 🌾 **Founder — Azimart Kenya**
-- 🤖 Building production AI and full-stack systems
-- 🌍 Selected for the **Moai Studio Informal Sector Cohort 2026**
-- 🚀 Building products across agriculture, commerce, AI, and public-impact technology
-- 🏅 **[View my GitHub Achievements](https://github.com/joel-mwangi?tab=achievements)**
 
 ---
 
