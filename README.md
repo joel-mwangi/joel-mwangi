@@ -1,25 +1,14 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Custom Joel Mwangi profile hero background" />
+<img src="./assets/profile-hero-composed.svg" width="100%" alt="Joel Mwangi — Software Engineer, AI Builder, Founder" />
 
-<br>
-
-# 👋 Hi, I'm Joel Mwangi
-
-### Software Engineer • AI Builder • Founder
-
-**I build and ship real software and AI systems that solve practical problems across commerce, agriculture, and intelligent information systems.**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Production+Software;Building+AI-Powered+Products;Founder+of+Azimart+Kenya;Full-Stack+Software+Engineer;AI+Engineer;Building+Technology+for+Africa" />
-
-<br>
-
-<a href="https://github.com/joel-mwangi"><img src="https://img.shields.io/github/followers/joel-mwangi?style=for-the-badge"></a>
-&nbsp;
-<a href="https://github.com/joel-mwangi?tab=repositories"><img src="https://img.shields.io/badge/Projects-GitHub-blue?style=for-the-badge&logo=github"></a>
-
-<br><br>
-<img src="./assets/profile-hero-divider.svg" width="100%" alt="Profile section divider" />
+<p>
+<a href="https://github.com/joel-mwangi">GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/joel-mwangi?tab=repositories">Projects</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/joel-mwangi?tab=achievements">Achievements</a>
+</p>
 
 </div>
 
