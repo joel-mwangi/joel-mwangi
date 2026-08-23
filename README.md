@@ -202,6 +202,14 @@ My long-term goal is to build technology that **empowers people, strengthens bus
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=joel-mwangi&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
 ## 🌱 Open Source & Collaboration
 
 I'm especially interested in collaborating around:
