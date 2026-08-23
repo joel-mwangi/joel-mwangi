@@ -189,6 +189,8 @@ My long-term goal is to build technology that **empowers people, strengthens bus
 
 ---
 
+<img src="./assets/github-stats-banner.svg" width="100%" alt="Custom GitHub Stats background" />
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -202,6 +204,8 @@ My long-term goal is to build technology that **empowers people, strengthens bus
 
 ---
 
+<img src="./assets/github-trophies-banner.svg" width="100%" alt="Custom GitHub Trophies background" />
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -209,6 +213,8 @@ My long-term goal is to build technology that **empowers people, strengthens bus
 </p>
 
 ---
+
+<img src="./assets/github-achievements-banner.svg" width="100%" alt="Custom GitHub Achievements background" />
 
 ## 🏅 GitHub Achievements
 
@@ -232,6 +238,8 @@ My long-term goal is to build technology that **empowers people, strengthens bus
 </p>
 
 ---
+
+<img src="./assets/top-contributions-banner.svg" width="100%" alt="Custom Top Contributed Repo background" />
 
 ## 🔝 Top Contributed Repo
 
