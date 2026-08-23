@@ -210,6 +210,14 @@ My long-term goal is to build technology that **empowers people, strengthens bus
 
 ---
 
+## 🔝 Top Contributed Repo
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=joel-mwangi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
 ## 🌱 Open Source & Collaboration
 
 I'm especially interested in collaborating around:
