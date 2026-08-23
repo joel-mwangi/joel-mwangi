@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Custom technology profile hero background">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#07111f"/>
+    <stop offset="55%" stop-color="#0b1830"/>
+    <stop offset="100%" stop-color="#10243a"/>
+  </linearGradient>
+  <radialGradient id="glow1" cx="20%" cy="25%" r="65%">
+    <stop offset="0%" stop-color="#1683ff" stop-opacity="0.28"/>
+    <stop offset="100%" stop-color="#1683ff" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow2" cx="82%" cy="62%" r="55%">
+    <stop offset="0%" stop-color="#15c8b5" stop-opacity="0.18"/>
+    <stop offset="100%" stop-color="#15c8b5" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#ffd166" stop-opacity="0.75"/>
+    <stop offset="100%" stop-color="#f4a261" stop-opacity="0.15"/>
+  </linearGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+    <path d="M44 0H0V44" fill="none" stroke="#7aa8d8" stroke-opacity="0.06"/>
+  </pattern>
+</defs>
+<rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="28" fill="url(#glow1)"/>
+<rect width="1200" height="420" rx="28" fill="url(#glow2)"/>
+<rect x="1" y="1" width="1198" height="418" rx="27" fill="url(#grid)" stroke="#55a7ff" stroke-opacity="0.2"/>
+
+<!-- abstract African horizon / field geometry -->
+<path d="M-30 350 C130 300 210 330 340 285 C480 237 600 275 730 300 C875 328 1010 292 1230 235 L1230 440 L-30 440 Z" fill="#0d3240" fill-opacity="0.45"/>
+<path d="M-20 365 C150 330 225 350 355 315 C485 280 615 302 760 320 C910 339 1060 308 1220 270" fill="none" stroke="url(#gold)" stroke-width="2" opacity="0.55"/>
+<path d="M40 388 C190 350 300 370 430 338 C575 301 700 338 820 345 C950 353 1080 322 1165 302" fill="none" stroke="#32d4c2" stroke-opacity="0.3" stroke-width="3"/>
+
+<!-- AI network -->
+<g fill="none" stroke="#62b0ff" stroke-opacity="0.38" stroke-width="1.5">
+  <path d="M780 80 L870 125 L1015 90 L1120 145"/>
+  <path d="M820 205 L915 165 L1020 220 L1110 190"/>
+  <path d="M875 125 L915 165 L870 235 L820 205 Z"/>
+  <path d="M1015 90 L1020 220 L1110 190 L1120 145 Z"/>
+</g>
+<g fill="#73c2ff">
+  <circle cx="780" cy="80" r="4"/><circle cx="870" cy="125" r="4"/><circle cx="1015" cy="90" r="4"/><circle cx="1120" cy="145" r="4"/>
+  <circle cx="820" cy="205" r="4"/><circle cx="915" cy="165" r="5"/><circle cx="1020" cy="220" r="4"/><circle cx="1110" cy="190" r="4"/><circle cx="870" cy="235" r="4"/>
+</g>
+
+<!-- subtle Kenya-inspired contour -->
+<path d="M915 280 C940 250 965 248 982 262 C1000 275 1018 269 1027 285 C1038 302 1026 319 1012 333 C994 350 984 371 964 380 C947 388 932 378 922 360 C910 339 901 316 905 300 Z" fill="#1d5160" fill-opacity="0.26" stroke="#49d5c7" stroke-opacity="0.32"/>
+
+<!-- accent arcs -->
+<path d="M90 90 C210 15 355 10 470 55" fill="none" stroke="#3d9cff" stroke-opacity="0.3" stroke-width="2"/>
+<path d="M85 112 C212 34 360 31 500 78" fill="none" stroke="#22c7b7" stroke-opacity="0.18" stroke-width="2"/>
+
+<!-- visual-safe center vignette -->
+<rect x="150" y="55" width="900" height="310" rx="26" fill="#020812" fill-opacity="0.22"/>
+</svg>
