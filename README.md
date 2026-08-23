@@ -182,6 +182,7 @@ My long-term goal is to build technology that **empowers people, strengthens bus
 - 🤖 Building production AI and full-stack systems
 - 🌍 Selected for the **Moai Studio Informal Sector Cohort 2026**
 - 🚀 Building products across agriculture, commerce, AI, and public-impact technology
+- 🏅 **[View my GitHub Achievements](https://github.com/joel-mwangi?tab=achievements)**
 
 ---
 
