@@ -189,7 +189,12 @@ My long-term goal is to build technology that **empowers people, strengthens bus
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joel-mwangi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=joel-mwangi&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=joel-mwangi&theme=tokyo-night"/>
